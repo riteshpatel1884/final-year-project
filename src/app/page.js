@@ -160,7 +160,7 @@ export default function Home() {
             </span>
 
             <span className="brand-name">
-              Herbarium Lens
+              MedLeafViT
             </span>
           </Link>
 
@@ -168,7 +168,7 @@ export default function Home() {
             <a href="#about">About</a>
             <a href="#features">Features</a>
             <a href="#how-it-works">How it works</a>
-            <a href="#technology">Technology</a>
+        
           </nav>
 
           <div className="nav-actions">

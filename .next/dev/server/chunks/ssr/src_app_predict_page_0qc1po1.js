@@ -524,7 +524,7 @@ function PredictPage() {
                                 lineNumber: 662,
                                 columnNumber: 11
                             }, this),
-                            "Herbarium Lens"
+                            "MedLeafViT"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/predict/page.js",

@@ -660,7 +660,7 @@ export default function PredictPage() {
       <nav className="h-[72px] px-[7%] flex items-center justify-between bg-white border-b border-slate-200">
         <Link href="/" className="flex items-center gap-2.5 text-slate-900 no-underline text-[19px] font-semibold">
           <span className="text-blue-600 text-[28px]">⌁</span>
-          Herbarium Lens
+          MedLeafViT
         </Link>
         <Link href="/" className="hidden sm:block text-slate-500 no-underline text-[13px] hover:text-blue-600">
           ← Back to home

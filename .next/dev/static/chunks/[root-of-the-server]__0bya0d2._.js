@@ -107,11 +107,11 @@ var _s = __turbopack_context__.k.signature();
 ;
 function LeafMark(t0) {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(5);
-    if ($[0] !== "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f") {
+    if ($[0] !== "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000") {
         for(let $i = 0; $i < 5; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f";
+        $[0] = "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000";
     }
     const { size: t1 } = t0;
     const size = t1 === undefined ? 22 : t1;
@@ -171,11 +171,11 @@ function LeafMark(t0) {
 _c = LeafMark;
 function ArrowIcon() {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(2);
-    if ($[0] !== "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f") {
+    if ($[0] !== "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000") {
         for(let $i = 0; $i < 2; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f";
+        $[0] = "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -210,11 +210,11 @@ function ArrowIcon() {
 _c1 = ArrowIcon;
 function CameraIcon() {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(2);
-    if ($[0] !== "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f") {
+    if ($[0] !== "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000") {
         for(let $i = 0; $i < 2; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f";
+        $[0] = "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -260,11 +260,11 @@ function CameraIcon() {
 _c2 = CameraIcon;
 function SparkIcon() {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(2);
-    if ($[0] !== "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f") {
+    if ($[0] !== "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000") {
         for(let $i = 0; $i < 2; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f";
+        $[0] = "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -298,11 +298,11 @@ function SparkIcon() {
 _c3 = SparkIcon;
 function ShieldIcon() {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(2);
-    if ($[0] !== "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f") {
+    if ($[0] !== "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000") {
         for(let $i = 0; $i < 2; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f";
+        $[0] = "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -350,11 +350,11 @@ _c4 = ShieldIcon;
 function Home() {
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(54);
-    if ($[0] !== "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f") {
+    if ($[0] !== "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000") {
         for(let $i = 0; $i < 54; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d4912ffb98697cbf46159efa57461745a4c3d55ce5511179cb84baa66b4fa79f";
+        $[0] = "2019982d9cc9754acedcb92ca8b50ecc9314348a54726152cdc79e94400b5000";
     }
     const [theme, setTheme] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])("light");
     const t0 = `${__TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$fraunces_ea01481f$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].variable} ${__TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$inter_1b9cea03$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].variable} ${__TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$ibm_plex_mono_bdf1a5e$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].variable} page ${theme === "dark" ? "theme-dark" : ""}`;
@@ -378,7 +378,7 @@ function Home() {
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                     className: "brand-name",
-                    children: "Herbarium Lens"
+                    children: "MedLeafViT"
                 }, void 0, false, {
                     fileName: "[project]/src/app/page.js",
                     lineNumber: 136,
@@ -422,14 +422,6 @@ function Home() {
                     fileName: "[project]/src/app/page.js",
                     lineNumber: 143,
                     columnNumber: 97
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                    href: "#technology",
-                    children: "Technology"
-                }, void 0, false, {
-                    fileName: "[project]/src/app/page.js",
-                    lineNumber: 143,
-                    columnNumber: 137
                 }, this)
             ]
         }, void 0, true, {
