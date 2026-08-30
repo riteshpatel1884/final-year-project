@@ -978,14 +978,6 @@ function PredictPage() {
                                 fileName: "[project]/src/app/predict/page.js",
                                 lineNumber: 830,
                                 columnNumber: 15
-                            }, this),
-                            result.note && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "mt-5 pt-4 border-t border-dashed border-slate-200 text-slate-500 text-xs",
-                                children: result.note
-                            }, void 0, false, {
-                                fileName: "[project]/src/app/predict/page.js",
-                                lineNumber: 856,
-                                columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
@@ -1006,7 +998,7 @@ function PredictPage() {
                         children: "© 2026 Herbarium Lens"
                     }, void 0, false, {
                         fileName: "[project]/src/app/predict/page.js",
-                        lineNumber: 867,
+                        lineNumber: 863,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -1015,13 +1007,13 @@ function PredictPage() {
                         children: "Herbarium Lens"
                     }, void 0, false, {
                         fileName: "[project]/src/app/predict/page.js",
-                        lineNumber: 868,
+                        lineNumber: 864,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/predict/page.js",
-                lineNumber: 866,
+                lineNumber: 862,
                 columnNumber: 7
             }, this)
         ]

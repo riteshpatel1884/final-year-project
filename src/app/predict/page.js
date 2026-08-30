@@ -852,11 +852,7 @@ export default function PredictPage() {
               </div>
             )}
 
-            {result.note && (
-              <p className="mt-5 pt-4 border-t border-dashed border-slate-200 text-slate-500 text-xs">
-                {result.note}
-              </p>
-            )}
+            
 
           </div>
         )}
