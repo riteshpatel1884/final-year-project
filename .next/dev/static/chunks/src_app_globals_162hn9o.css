@@ -1,0 +1,54 @@
+/* [project]/src/app/globals.css [app-client] (css) */
+html, body {
+  color: #12131a;
+  background-color: #f6f7fb;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: .35s ease-out both fade-up;
+}
+
+@keyframes spin-slow {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: 1s linear infinite spin-slow;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -400px 0;
+  }
+
+  100% {
+    background-position: 400px 0;
+  }
+}
+
+.shimmer {
+  background: linear-gradient(90deg, #eef0f4 25%, #f7f8fb 37%, #eef0f4 63%) 0 0 / 400px 100%;
+  animation: 1.4s ease-in-out infinite shimmer;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up, .animate-spin-slow, .shimmer {
+    animation: none !important;
+  }
+}
+
+/*# sourceMappingURL=src_app_globals_162hn9o.css.map*/
